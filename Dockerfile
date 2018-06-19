@@ -1,6 +1,6 @@
 #set the base image
 FROM nginx
 #file author
-MAINTAINER poppy
+MAINTAINER bboypoppy
 ADD ./ /usr/share/nginx/html
 
